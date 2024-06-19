@@ -8,6 +8,14 @@
 	border: 2px solid black;
 	background-color: red;
 }
+body{
+  background-color: black;
+}
+h1{
+  color: red;
+}
+#star{
+  font-size: 20px;}
 i{
 	font-size: 50px;
 	margin-left: 50px;
